@@ -1,0 +1,6 @@
+{
+  "name": "Chemistry Measurement & Resolution Lab",
+  "description": "Interactive high school chemistry measurement investigation for rulers, graduated cylinders, and beakers with significant figures and scale resolution practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
